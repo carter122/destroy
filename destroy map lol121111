@@ -1,0 +1,102 @@
+game:GetService("Workspace").Lights:
+Destroy()
+
+
+game:GetService("Workspace").print:
+destroy()
+
+game:GetService("Workspace").MAP["Fences/UF"]:
+Destroy()
+
+game:GetService("Workspace").MAP.CarnivalPlace:
+Destroy()
+
+
+game:GetService("Workspace").MAP.Map["Game-Houses"]:
+Destroy()
+
+game:GetService("Workspace").MAP.Map.SchoolStuff:
+Destroy()
+
+game:GetService("Workspace").Vehicles:
+Destroy()
+
+
+game:GetService("Workspace").MAP.Graffiti:
+Destroy()
+
+game:GetService("Workspace").MAP.Map.carpet:
+Destroy()
+
+game:GetService("Workspace").MAP.Map.carpet:
+Destroy()
+
+game:GetService("Workspace").MAP.Map["Meshes/mountain"]:
+Destroy()
+
+game:GetService("Workspace").MAP.Map.trash:
+Destroy()
+
+game:GetService("Workspace").Bush:
+Destroy()
+
+game:GetService("Workspace").MAP.Map["wooden fence"]:
+Destroy()
+game:GetService("Workspace").MAP.Map["wooden fence"]:
+Destroy()
+game:GetService("Workspace").MAP.Map["wooden fence"]:
+Destroy()
+game:GetService("Workspace").MAP.Map["wooden fence"]:
+Destroy()
+game:GetService("Workspace").MAP.Map["wooden fence"]:
+Destroy()
+game:GetService("Workspace").MAP.Map["wooden fence"]:
+Destroy()
+game:GetService("Workspace").MAP.Map["wooden fence"]:
+Destroy()
+game:GetService("Workspace").MAP.Map["wooden fence"]:
+Destroy()
+game:GetService("Workspace").MAP.Map["wooden fence"]:
+Destroy()
+game:GetService("Workspace").MAP.Map["wooden fence"]:
+Destroy()
+game:GetService("Workspace").MAP.Map["wooden fence"]:
+Destroy()
+game:GetService("Workspace").MAP.Map["wooden fence"]:
+Destroy()
+game:GetService("Workspace").MAP.Map["wooden fence"]:
+Destroy()
+game:GetService("Workspace").MAP.Map["wooden fence"]:
+Destroy()
+game:GetService("Workspace").MAP.Map["wooden fence"]:
+Destroy()
+game:GetService("Workspace").MAP.Map["wooden fence"]:
+Destroy()
+game:GetService("Workspace").MAP.Map["wooden fence"]:
+Destroy()
+game:GetService("Workspace").MAP.Map["wooden fence"]:
+Destroy()
+game:GetService("Workspace").MAP.Map["wooden fence"]:
+Destroy()
+game:GetService("Workspace").MAP.Map["wooden fence"]:
+Destroy()
+game:GetService("Workspace").MAP.Map["wooden fence"]:
+Destroy()
+game:GetService("Workspace").MAP.Map["wooden fence"]:
+Destroy()
+game:GetService("Workspace").MAP.Map["wooden fence"]:
+Destroy()
+game:GetService("Workspace").MAP.Map["wooden fence"]:
+Destroy()
+game:GetService("Workspace").MAP.Map["wooden fence"]:
+Destroy()
+game:GetService("Workspace").MAP.Map["wooden fence"]:
+Destroy()
+game:GetService("Workspace").MAP.Map["wooden fence"]:
+Destroy()
+game:GetService("Workspace").MAP.Map["wooden fence"]:
+Destroy()
+game:GetService("Workspace").MAP.Map["wooden fence"]:
+Destroy()
+game:GetService("Workspace").MAP.Map["wooden fence"]:
+Destroy()
